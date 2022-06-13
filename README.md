@@ -6,7 +6,7 @@
 ## Results:
 
 ![User Analysis](Story/User_Analysis_Dash2.png)
-![Gender Focus](Story/Gender_Dash.png)
+![Gender Focus](Story/Gender_Dash2.png)
 ![Trips by Gender](Story/Trips_by_Gender_WpH.png)
 
 
