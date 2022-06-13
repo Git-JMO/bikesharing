@@ -1,11 +1,13 @@
 # bikesharing
 
 ## Overview of the statistical analysis:
-   * The purpose of this statistical analysis is to convince investors that a bike-sharing program in Des Moines is a solid business proposal. For this analysis we first used Pandas to change the "tripduration" column from an integer to a datetime datatype. Then, using the converted datatype, we leveraged tableau to create various visualizations that were compiled into a story comprised of two different dashboards and worksheet. This will undoubtedly make presenting the data much easier and will tell the full story we want to portray. Morevoer, by using Tableau we were able to show the length of time that bikes are checked out for all riders and genders, number of bike trips for all riders and genders for each hour of each day of the week, number of bike trips for each type of user and gender for each day of the week and more! Below is the story we compiled along with an explanation. As mentioned previously, our story is comprised of two dashboards and a worksheet. The first dashboard provides an overall picture of citibike data, 
+   * The purpose of this statistical analysis is to convince investors that a bike-sharing program in Des Moines is a solid business proposal. For this analysis we first used Pandas to change the "tripduration" column from an integer to a datetime datatype. Then, using the converted datatype, we leveraged tableau to create various visualizations that were compiled into a story comprised of two different dashboards. This will undoubtedly make presenting the data much easier and will tell the full story we want to portray. Morevoer, by using Tableau we were able to show the length of time that bikes are checked out for all riders and genders, number of bike trips for all riders and genders for each hour of each day of the week, number of bike trips for each type of user and gender for each day of the week and more! Below is the story we compiled along with an explanation. As mentioned previously, our story is comprised of two dashboards and a worksheet. The first dashboard provides an overall analysis of citibike data while the second dashboard focuses more on Gender. 
 
 ## Results:
 
-
+![User Analysis](Story/User_Analysis_Dash.png)
+![Gender Focus](Story/Gender_Dash.png)
+![Trips by Gender](Story/Trips_by_Gender_WpH.png)
 
 
 
